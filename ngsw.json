@@ -1,0 +1,109 @@
+{
+  "configVersion": 1,
+  "timestamp": 1757084339438,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.c08120c0bf9f4324.js",
+        "/manifest.webmanifest",
+        "/polyfills.3863f58e4b208522.js",
+        "/runtime.a9ed4cd750b373b0.js",
+        "/scripts.cb3539f462049735.js",
+        "/styles.0145f5dc19fac218.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/images/fav/android-chrome-192x192.png",
+        "/assets/images/fav/android-chrome-512x512.png",
+        "/assets/images/fav/apple-touch-icon.png",
+        "/assets/images/fav/favicon-16x16.png",
+        "/assets/images/fav/favicon-32x32.png",
+        "/assets/images/logo/appstore.webp",
+        "/assets/images/logo/areg.png",
+        "/assets/images/logo/enzopik_logo.png",
+        "/assets/images/logo/googleplay.webp",
+        "/assets/images/logo/quality.png",
+        "/assets/images/mockups/loginPage.jpg",
+        "/assets/images/mockups/loginPage1.jpg",
+        "/assets/images/section/contactpage.png",
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-152x152.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-384x384.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/images/fav/android-chrome-192x192.png": "62a776658725cebcfb4ee6c326148894d060031e",
+    "/assets/images/fav/android-chrome-512x512.png": "1015c068cc879278408913a37d7b36078dcff193",
+    "/assets/images/fav/apple-touch-icon.png": "f5f47db61c0da8d4787ab697b0b0c23ae5dcdd3a",
+    "/assets/images/fav/favicon-16x16.png": "473f7c93a200730a8a53d16b6717b5701f95347b",
+    "/assets/images/fav/favicon-32x32.png": "0f190a2ec85e5894e204f8f474f497dda427bba7",
+    "/assets/images/logo/appstore.webp": "7c34f2c6b0965d725ebaf76bf070ff9891c2fdc3",
+    "/assets/images/logo/areg.png": "21cdb09d9a007c9630919e4485e1164a460f62e8",
+    "/assets/images/logo/enzopik_logo.png": "238a65ba526a7a0f2d8295bde127e9e34548e997",
+    "/assets/images/logo/googleplay.webp": "4e4f7214e80c133c79941793d61d58f44f7a9f47",
+    "/assets/images/logo/quality.png": "924238db09f5da49b9320ebe9ee2e549b19639c7",
+    "/assets/images/mockups/loginPage.jpg": "1d2291866d94048ebb23734409ae38c50aee35c2",
+    "/assets/images/mockups/loginPage1.jpg": "eb9da7d240909b4a21de3efffbc3588272c3ab93",
+    "/assets/images/section/contactpage.png": "238396e69aa9e203eb533e663ce3f90c4526bfd8",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/index.html": "a07d55716413c9e73239b10546f73a753ea3b1cc",
+    "/main.c08120c0bf9f4324.js": "1b7c70c7bd6178cbcbd33f5c1115cee7d2345836",
+    "/manifest.webmanifest": "e373374b4f692dfd4c1f770a84051bf12f5c8b62",
+    "/polyfills.3863f58e4b208522.js": "43982c2aa5006df4c8fc3bb7f754fc575a5bcfe6",
+    "/runtime.a9ed4cd750b373b0.js": "7585524b2a907ed5f0b174f1c0a0a29cbd47528f",
+    "/scripts.cb3539f462049735.js": "6b2276f585289885a29b500ee3be5eab9f060455",
+    "/styles.0145f5dc19fac218.css": "8158349c7471ce13d77f08451cabbf0df2bf88b8"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
